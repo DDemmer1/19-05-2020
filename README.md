@@ -25,7 +25,7 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🖊️ Sudoku - Wikipedia](https://en.wikipedia.org/wiki/Sudoku)
 
-
+![Sudoku](https://i.imgur.com/taQyBMP.jpg)
 
 
 
