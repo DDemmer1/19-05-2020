@@ -1,4 +1,4 @@
-# 19-05-2020 SoSe20 - 2D Array Wiederholung/Sudoku-Validator
+# 19-05-2020 SoSe20 - 2D Array Übung - Sudoku-Validator
 
 Übungsaufgabe vom 19.05.2020 für die Studierenden des Java II Seminars der Universität zu Köln
 
