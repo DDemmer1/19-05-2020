@@ -21,6 +21,8 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [📃 How to loop over two dimensional array in Java?](https://javarevisited.blogspot.com/2015/09/how-to-loop-two-dimensional-array-in-java.html)
 
+- [📃 Java Util Array Equals](https://www.geeksforgeeks.org/java-util-arrays-equals-java-examples/)
+
 - [🖊️ Sudoku - Wikipedia](https://en.wikipedia.org/wiki/Sudoku)
 
 
