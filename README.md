@@ -4,7 +4,7 @@
 
 ### 📝 Aufgabe:
 
-Ziel dieser Aufgabe ist es ein Programm zu schreiben, dass fertige Sudokus, in Form eines ```int[][] grid``` auf ihre Richtigkeit überprüft. Importiert euch dazu einfach das GitHub Repository in Eclipe um eine schon vorgefertigte Programmstruktur mit einem Sudoku ```int[][] grid``` zu erhalten, dass es zu überprüfen gilt.
+Ziel dieser Aufgabe ist es ein Programm zu schreiben, das fertige Sudokus, in Form eines ```int[][] grid``` auf ihre Richtigkeit überprüft. Importiert euch dazu einfach das GitHub Repository in Eclipe um eine schon vorgefertigte Programmstruktur mit einem Sudoku ```int[][] grid``` zu erhalten, dass es zu überprüfen gilt.
 
 Tipps ⚠️:
 - Schreibt eine Methode die überprüft ob ein 1D Array die Zahlen 1-9 beinhaltet und verwendet diese Methode um 
@@ -25,7 +25,7 @@ Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
 - [🖊️ Sudoku - Wikipedia](https://en.wikipedia.org/wiki/Sudoku)
 
-
+![Sudoku](https://i.imgur.com/taQyBMP.jpg)
 
 
 
